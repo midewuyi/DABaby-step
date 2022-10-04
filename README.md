@@ -1,4 +1,4 @@
-# Project Name: MY_DataAnalysis_Journey
+# Project Name: my_DataAnalysis_Journey
 
 ----
 # Project Objective: Problem Statement
